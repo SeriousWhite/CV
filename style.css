@@ -199,4 +199,8 @@ a:hover {
     line-height: 2.5rem;
     font-size: 13px;
   }
+
+  li {
+    font-size: 13px;
+  }
 }
