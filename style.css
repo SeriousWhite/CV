@@ -151,6 +151,9 @@ a:hover {
 @media (max-width: 450px) {
   h3 {
     justify-self: center;
+    width: 80%;
+    display: grid;
+    justify-items: center;
   }
 }
 
